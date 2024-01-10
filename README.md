@@ -13,20 +13,38 @@
 
 - ⚡ Fun fact **I like progress, even at least 1 percent every day.**
 
+<div align="center"> 
+<h3 align="center">Connect with me:</h3>
+  <a href="mailto:hikmahaldrin44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/hikmah-aldrin-abdillah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/hikmahabdillah/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://hikmahald.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,java,mysql,php,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
+</div>
 
 
-<a href="https://linkedin.com/in/hikmah-aldrin-abdillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmah-aldrin-abdillah" height="30" width="40" /></a>
-<a href="https://instagram.com/hikmahabdillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hikmahabdillah" height="30" width="40" /></a>
-</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 <div align="middle">
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hikmahabdillah&show_icons=true&locale=en&theme=transparent" alt="hikmahabdillah" /></p>
-  
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hikmahabdillah&show_icons=true&locale=en&theme=transparent" alt="hikmahabdillah" /></p>
+<p><img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" /></p><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmahabdillah&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hikmahabdillah"/></p>
 </div>
