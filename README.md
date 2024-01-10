@@ -1,4 +1,4 @@
-<img width="100%" height="300px" src="https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif" alt="gif-code" />
+
 <h1 align="center">Hello World! 👋, I'm Hikmah Aldrin</h1>
 <h3 align="center">A frontend Developer Enthusiast</h3>
 &nbsp;&nbsp;&nbsp;
@@ -43,8 +43,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="middle">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hikmahabdillah&show_icons=true&locale=en&theme=transparent" alt="hikmahabdillah" /></p>
-<p><img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" /></p><br>
+<div align="center">
+  <p>
+<img width=424 src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" />
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=hikmahabdillah&show_icons=true&locale=en&theme=transparent" alt="hikmahabdillah" />
+  </p><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmahabdillah&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hikmahabdillah"/></p>
 </div>
