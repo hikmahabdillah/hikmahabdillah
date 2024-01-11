@@ -1,17 +1,14 @@
 
 <h1 align="center">Hello World! 👋, I'm Hikmah Aldrin</h1>
 <h3 align="center">A frontend Developer Enthusiast</h3>
+<h4>I'm a graduated majoring in Software Engineering for 11 months of internship experience in an IT company in Malang City. For now I am undergraduate student who studies Informatics Engineering at State Polytechnic of Malang. I'm currently learning everything about technology, especially about front end development. But I don't forget to learn other technologies as well.</h4>
 &nbsp;&nbsp;&nbsp;
-
-  - 🔭 I’m currently studying at **State Polytechnic of Malang**
-
-- 🌱 I’m currently learning **anything**
 
 - 👨‍💻 My Personal Website : [https://hikmahald.vercel.app/](https://hikmahald.vercel.app/)
 
 - 📫 How to reach me **hikmahaldrin44@gmail.com**
 
-- ⚡ Fun fact **I like progress, even at least 1 percent every day.**
+- ⚡ **I like progress, even at least 1 percent every day.**
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
