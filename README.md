@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! 👋, I'm Hikmah Aldrin</h1>
 <h3 align="center">A frontend Developer Enthusiast</h3>
-<h4>I'm a graduated majoring in Software Engineering for 11 months of internship experience in an IT company in Malang City. For now I am undergraduate student who studies Informatics Engineering at State Polytechnic of Malang. I'm currently learning everything about technology, especially about front end development. But I don't forget to learn other technologies as well.</h4>
+<h4>Hello World! I'm an Front End Developer and Informatics Engineering Student at State Polytechnic of Malang. Currently I'm focused on expand my knowledge about Front End Development to create stunning, user-friendly web applications. Outside of coding, I'm also interested in UI/UX Design , which complements my development skills.</h4>
 &nbsp;&nbsp;&nbsp;
 
 - 👨‍💻 My Personal Website : [https://hikmahald.vercel.app/](https://hikmahald.vercel.app/)
