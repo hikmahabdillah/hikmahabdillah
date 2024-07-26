@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hikmahaldrin44@gmail.com**
 
-- ⚡ **I like progress, even at least 1 percent every day.**
+- ⚡ **I like progress, even one percent every day.**
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
