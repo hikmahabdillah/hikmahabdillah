@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! 👋, I'm Hikmah Aldrin</h1>
-<h4>An Front End Developer and Informatics Engineering Student at State Polytechnic of Malang. Currently I'm focused to expand my knowledge about Front End Development to create stunning, user-friendly web applications. Outside of coding, I'm also interested in UI/UX Design , which complements my development skills.</h4>
+<h4>An Front End Developer and Informatics Engineering Student at State Polytechnic of Malang. Currently I'm focused to expand my knowledge about Front End Development to create stunning, user-friendly web applications. Outside of coding, I'm also interested in UI/UX Design , which complements my development skills. I’ve recently become interested in blockchain and Web3, and I’m in the process of learning more about it.</h4>
 &nbsp;&nbsp;&nbsp;
 
 - 👨‍💻 My Personal Website : [https://hikmahald.vercel.app/](https://hikmahald.vercel.app/)
@@ -34,15 +34,8 @@
     <img src="https://skillicons.dev/icons?i=figma,git,nodejs,mysql,mongodb" /><br>
 </div>
 
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
 <div align="center">
   <p>
-<img width=424 src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" />
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=hikmahabdillah&show_icons=true&locale=en&theme=transparent" alt="hikmahabdillah" />
-  </p><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmahabdillah&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hikmahabdillah"/></p>
+<img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=hikmahabdillah&theme=transparent" alt="hikmahabdillah" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmahabdillah&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hikmahabdillah"/></p>
 </div>
