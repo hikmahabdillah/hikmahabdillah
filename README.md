@@ -1,13 +1,13 @@
 
-<h1 align="center">Hello World! 👋, I'm Hikmah Aldrin</h1>
-<h4>An Front End Developer and Informatics Engineering Student at State Polytechnic of Malang. Currently I'm focused to expand my knowledge about Front End Development to create stunning, user-friendly web applications. Outside of coding, I'm also interested in UI/UX Design , which complements my development skills. I’ve recently become interested in blockchain and Web3, and I’m in the process of learning more about it.</h4>
-&nbsp;&nbsp;&nbsp;
+<h1>Hello World! 👋</h1>
+<h3>I'm Hikmah Aldrin Abdillah</h3>
+<p>An Front End Developer and Informatics Engineering Student at State Polytechnic of Malang. Currently I'm focused to expand my knowledge about Front End Development to create stunning, user-friendly web applications. Outside of coding, I'm also interested in UI/UX Design , which complements my development skills. I’ve recently become interested in blockchain and Web3, and I’m in the process of learning more about it.</p>
 
-- 👨‍💻 My Personal Website : [https://hikmahald.vercel.app/](https://hikmahald.vercel.app/)
-
-- 📫 How to reach me **hikmahaldrin44@gmail.com**
-
-- ⚡ **I like progress, even one percent every day.**
+<h3>Tech Stack</h3>
+<p>React, Typescript, Tailwind CSS, Bootstrap, Javascript, Motion</p>
+<p>PHP, Laravel, Express, MySQL, MongoDB</p>
+<p>Ethers JS, Hardhat, Solidity</p>
+<p>Figma</p>
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
