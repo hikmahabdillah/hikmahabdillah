@@ -2,7 +2,7 @@
 
 Coding, Coffee, and Consistency ⚡ — I’m **Hikmah Aldrin Abdillah**  
 <br/>
-I'm a **Front End Developer** and an **Informatics Engineering Student** at State Polytechnic of Malang.  
+Hello World! I'm a **Front End Developer** and an **Informatics Engineering Student** at State Polytechnic of Malang.  
 Currently, I'm focusing on **Front End Development** to build stunning and user-friendly web applications.  
 I also have an interest in **UI/UX Design**, and recently I’ve been exploring **Blockchain & Web3**. 🚀  
 
